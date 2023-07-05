@@ -282,12 +282,10 @@ user agent stylesheet li {
 }
 
 .hover-animation {
-	opacity: 0.7;
 	transform: scale(1);
-	transition: all 0.3s;
+	transition: transform 0.3s;
 }
 
 .hover-animation:hover {
-	opacity: 1;
 	transform: scale(1.05);
 }
