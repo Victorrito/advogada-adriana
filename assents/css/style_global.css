@@ -1,4 +1,4 @@
-<style type="text/css">
+
 	@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&display=swap');
 	@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
 	@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
@@ -32,7 +32,7 @@
 	/* SEÇÃO NAVBAR E HEADER */
 	#header {
 		background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-		url("assents/img/logo/header.jpg");
+		url("assents/img/header.jpg");
 		background-position-x: center;
     	background-position-y: -1px;
 		background-size: cover;
@@ -78,7 +78,7 @@
 
 
 	.bg-image{
-		background-image: url('assents/img/logo/about-image1.jpg');
+		background-image: url('assents/img/about-image1.jpg');
 		background-size: cover;
 		height: 300px;
 		object-fit: cover;
@@ -140,11 +140,11 @@
 	}
 
 	#benefit-1 {
-		background-image: url("assents/img/logo/youtube.png");
+		background-image: url("assents/img/youtube.png");
 	}
 
 	#benefit-2 {
-		background-image: url("assents/img/logo/telegram-logo-1-1.png");
+		background-image: url("assents/img/telegram-logo-1-1.png");
 	}
 
 	/* Mobile section */
@@ -265,4 +265,3 @@
 
 
 	
-</style>
