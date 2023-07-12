@@ -52,7 +52,6 @@
 }
 
 .navbar ul li a {
-	font-weight: bold;
 	font-size: 17px;
 	color: #fff;
 }
@@ -81,6 +80,7 @@ svg.wave {
 }
 
 .middle h1 {
+	font-weight: bold;
 	font-size: 65px;
 }
 
