@@ -52,6 +52,7 @@
 }
 
 .navbar ul li a {
+	font-weight: bold;
 	font-size: 17px;
 	color: #fff;
 }
